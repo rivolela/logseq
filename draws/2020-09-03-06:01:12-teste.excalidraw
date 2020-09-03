@@ -1,0 +1,85 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://logseq.com",
+  "elements": [
+    {
+      "id": "ZHXRn8aq7cxpfftiEQE-K",
+      "type": "diamond",
+      "x": 694.71875,
+      "y": 117.5234375,
+      "width": 101.91015625,
+      "height": 94.33984375,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1620800619,
+      "version": 50,
+      "versionNonce": 1362541643,
+      "isDeleted": false
+    },
+    {
+      "id": "Mh003EvrcVAL_OZ-qHB_R",
+      "type": "line",
+      "x": 699.41796875,
+      "y": 163.69140625,
+      "width": 174.3515625,
+      "height": 123.41796875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 962772293,
+      "version": 27,
+      "versionNonce": 1474993445,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -174.3515625,
+          123.41796875
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "mLAVsjRPO2zwM4kEZkmTX",
+      "type": "diamond",
+      "x": 406.8671875,
+      "y": 218.83203125,
+      "width": 124.3828125,
+      "height": 125.32421875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1735717803,
+      "version": 55,
+      "versionNonce": 1825129381,
+      "isDeleted": false
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#FFF",
+    "gridSize": null
+  }
+}
